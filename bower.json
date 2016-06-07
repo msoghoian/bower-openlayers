@@ -1,0 +1,17 @@
+{
+  "name": "bower-openlayers",
+  "homepage": "https://github.com/msoghoian/bower-openlayers",
+  "authors": [
+    "Matt Soghoian <mattsoghoian@gmail.com>"
+  ],
+  "description": "Bower wrapper for OpenLayers",
+  "main": "['ol.js', 'ol.css']",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
