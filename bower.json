@@ -5,7 +5,10 @@
     "Matt Soghoian <mattsoghoian@gmail.com>"
   ],
   "description": "Bower wrapper for OpenLayers",
-  "main": "['ol.js', 'ol.css']",
+  "main": [
+    "openlayers/ol.js",
+    "openlayers/ol.css"
+  ],
   "license": "MIT",
   "ignore": [
     "**/.*",
