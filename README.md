@@ -9,4 +9,4 @@ This allows you to install and maintain openlayers using bower instead of npm or
 ### Versioning
 The versioning of this repository will mirror the versioning of the official openlayers releases.
 
-Current version is ***3.16.0***
+Current version is ***3.17.1***
